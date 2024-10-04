@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tihomir\\Downloads\\PurvoZadanie-NewBranch\\PurvoZadanie\\PurvoZadanie.csproj": {}
+    "C:\\Users\\Tihomir\\Downloads\\TihomirZadacha1\\PurvoZadanie\\PurvoZadanie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tihomir\\Downloads\\PurvoZadanie-NewBranch\\PurvoZadanie\\PurvoZadanie.csproj": {
+    "C:\\Users\\Tihomir\\Downloads\\TihomirZadacha1\\PurvoZadanie\\PurvoZadanie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tihomir\\Downloads\\PurvoZadanie-NewBranch\\PurvoZadanie\\PurvoZadanie.csproj",
+        "projectUniqueName": "C:\\Users\\Tihomir\\Downloads\\TihomirZadacha1\\PurvoZadanie\\PurvoZadanie.csproj",
         "projectName": "PurvoZadanie",
-        "projectPath": "C:\\Users\\Tihomir\\Downloads\\PurvoZadanie-NewBranch\\PurvoZadanie\\PurvoZadanie.csproj",
+        "projectPath": "C:\\Users\\Tihomir\\Downloads\\TihomirZadacha1\\PurvoZadanie\\PurvoZadanie.csproj",
         "packagesPath": "C:\\Users\\Tihomir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tihomir\\Downloads\\PurvoZadanie-NewBranch\\PurvoZadanie\\obj\\",
+        "outputPath": "C:\\Users\\Tihomir\\Downloads\\TihomirZadacha1\\PurvoZadanie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tihomir\\AppData\\Roaming\\NuGet\\NuGet.Config",
